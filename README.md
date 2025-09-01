@@ -1,3 +1,4 @@
 # ToDoApp-Sample
 SpringBoot環境学習用
+
 仕様関係のドキュメントはtodo_demo_architectureを参照。
