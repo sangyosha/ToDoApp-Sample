@@ -1,0 +1,12 @@
+todo_demo\controller\TodoController$IdListRequest.class
+todo_demo\controller\TodoController$ToggleAllRequest.class
+todo_demo\TodoDemoApplication.class
+todo_demo\controller\TodoController.class
+todo_demo\entity\Todo.class
+todo_demo\controller\AuthController.class
+todo_demo\service\UserDetailsServiceImpl.class
+todo_demo\config\SecurityConfig.class
+todo_demo\entity\User.class
+todo_demo\repository\TodoRepository.class
+todo_demo\repository\UserRepository.class
+todo_demo\service\UserService.class

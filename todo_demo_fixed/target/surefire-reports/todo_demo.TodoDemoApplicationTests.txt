@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: todo_demo.TodoDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.383 s -- in todo_demo.TodoDemoApplicationTests
