@@ -29,8 +29,9 @@ CMD ["sh", "-c", "java -jar app.jar --server.port=$PORT"]
 
 
 # Render が割り当てるポートを環境変数から受け取る
-ENV PORT=8083
+ENV PORT=8080
 
 # Spring Boot に Render の PORT を渡す
 CMD ["sh", "-c", "java -jar app.jar --server.port=$PORT"]
+
 
